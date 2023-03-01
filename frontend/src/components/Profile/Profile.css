@@ -1,0 +1,29 @@
+.pCard_card .pCard_down {
+    height: unset !important;
+}
+
+.btn-card{
+    background-color: #f6fcfe !important;
+    position: absolute !important;
+    bottom: 18px !important;
+}
+
+.pCard_card .pCard_down div {
+    width: unset;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -ms-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+}
+
+.card-btn {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
